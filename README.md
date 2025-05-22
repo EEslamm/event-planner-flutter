@@ -1,16 +1,34 @@
-# event_planner
 
-A new Flutter project.
+📄 [Download the presentation here](https://drive.google.com/drive/folders/1BVRZKw3UE938jXEx48ERDPgwzeRwtO8W?usp=sharing)
 
-## Getting Started
+# Event Planner App
 
-This project is a starting point for a Flutter application.
+## 🎯 Overview
+Event Planner is a comprehensive mobile app built with Flutter, designed to simplify the planning and management of various events such as weddings, birthdays, and dinners. The app provides an intuitive and user-friendly interface along with a rich set of features to help users organize their events professionally.
+The app is also capable of estimating the event price to some extent based on a combination of user-selected preferences and options.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Key Features
+- Wedding planning
+- Birthday organization
+- Dinner reservations
+- 
+- List of available venues
+- Beauty services
+- Photography services
+- Customized event design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- Flutter SDK
+- GetX for state management
+- Supabase for cloud services and database
+- Google Generative AI for AI features
+- Image Picker for image selection
+- Cached Network Image for optimized image loading
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Requirements
+- Flutter SDK (version ^3.7.2)
+- Dart SDK
+- Android Studio or VS Code
+- Mobile device or emulator
+
+
