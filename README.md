@@ -11,7 +11,6 @@ The app is also capable of estimating the event price to some extent based on a 
 - Wedding planning
 - Birthday organization
 - Dinner reservations
-- 
 - List of available venues
 - Beauty services
 - Photography services
